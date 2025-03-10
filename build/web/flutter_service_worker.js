@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4cd613d3ecdf43f947b3c769501c0df8",
-"assets/AssetManifest.bin.json": "1ff5a9a3df884dfd43bb786102c7b95c",
-"assets/AssetManifest.json": "d2f37ffb7d53498d1847e2c8dbe519d3",
+const RESOURCES = {"assets/AssetManifest.bin": "8bc90b5e0e0bbb2d0b5c3abfcc9d1d91",
+"assets/AssetManifest.bin.json": "026a2910680e4bed489bfba3a55bdf44",
+"assets/AssetManifest.json": "3e70a7f523ba4e1ab86b035706c521c6",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/MaterialIcons-Regular.otf": "e5354f35d8935479a987a12a6b081668",
@@ -13,7 +13,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "4cd613d3ecdf43f947b3c769501c0df8
 "assets/assets/fonts/Tinos-BoldItalic.ttf": "83eb748d53dd6c4be1f08117ba3823fc",
 "assets/assets/fonts/Tinos-Italic.ttf": "ba02ef4e04db931e4f64f19cbab41f11",
 "assets/assets/fonts/Tinos-Regular.ttf": "5d50b7efd868452d058b828cf13dd1ac",
+"assets/assets/images/adaptive_foreground_icon.png": "7a18e1be99cf8aa30934f762f368e433",
+"assets/assets/images/app_launcher_icon.png": "7a18e1be99cf8aa30934f762f368e433",
 "assets/assets/images/black_leather_texture_oq318q90qun0mt90ucjc_2.png": "ba9910063c8cd6e37ab874dd44f39e7c",
+"assets/assets/images/error_image.png": "d8754649e7f9280b1b85b52af6498214",
 "assets/assets/images/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/images/fijek_4.png": "ca5014ac89bcbcb5fc7321541e4147fc",
 "assets/assets/images/for_months_our_firm_has_worked_closely_with_individuals_afflicted_by_sps_consulting_with_top_neurol_cnx8j4y0fn71bj4r9l4q_2.png": "d8345fd58c30837d2f8f54f9375109ec",
@@ -34,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "4cd613d3ecdf43f947b3c769501c0df8
 "assets/assets/videos/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/FontManifest.json": "df075f139b997b4df1b90c3e4fc5afa2",
 "assets/fonts/MaterialIcons-Regular.otf": "e5354f35d8935479a987a12a6b081668",
-"assets/NOTICES": "adfee7a22f2dfd2ec4ecc990854f43a0",
+"assets/NOTICES": "2a5300f52715535d10d7d7cc79c6dcb7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "c51c58455afba997eb4bd92393d3ad3e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
@@ -57,12 +60,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "4cd613d3ecdf43f947b3c769501c0df8
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "flutter_bootstrap.js": "90c602cbcde3f279cc8c0d68ee5bef07",
 "GREEN_(15).png": "c60f5245adcd507b91259c1f63b1c2a2",
+"icons/app_launcher_icon.png": "7a18e1be99cf8aa30934f762f368e433",
+"icons/error_image.png": "d8754649e7f9280b1b85b52af6498214",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "49ad5190142259c9cf9fba832a3cb3c9",
-"/": "49ad5190142259c9cf9fba832a3cb3c9",
+"index.html": "a26fad22cd6d5a2cba60bdabe76560f5",
+"/": "a26fad22cd6d5a2cba60bdabe76560f5",
 "LOGO-W.png": "7a18e1be99cf8aa30934f762f368e433",
-"main.dart.js": "4585c13c1575180815da044f9e577074",
+"main.dart.js": "777d749dfec77c522ae85f49faccae70",
 "version.json": "2b94ae582d729e14ac3081dd4f1369c7"};
 // The application shell files that are downloaded before a service worker can
 // start.
