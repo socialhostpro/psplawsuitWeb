@@ -1,3 +1,7 @@
-git add README.md
-git rebase --continue
-git push origin main
+# spsLawsuit
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
