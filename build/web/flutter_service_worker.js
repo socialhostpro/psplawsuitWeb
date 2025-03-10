@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "00758fce64337b4ff682dac1e5fd5ff7",
-"assets/AssetManifest.bin.json": "bb9c46c82b6b10110b92e933afdb5723",
-"assets/AssetManifest.json": "6164a749489a7727afc75954e615101e",
+const RESOURCES = {"assets/AssetManifest.bin": "4cd613d3ecdf43f947b3c769501c0df8",
+"assets/AssetManifest.bin.json": "1ff5a9a3df884dfd43bb786102c7b95c",
+"assets/AssetManifest.json": "d2f37ffb7d53498d1847e2c8dbe519d3",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/assets/fonts/MaterialIcons-Regular.otf": "e5354f35d8935479a987a12a6b081668",
 "assets/assets/fonts/Tinos-Bold.ttf": "78608e0544ac6285956a5cc050d4143f",
 "assets/assets/fonts/Tinos-BoldItalic.ttf": "83eb748d53dd6c4be1f08117ba3823fc",
 "assets/assets/fonts/Tinos-Italic.ttf": "ba02ef4e04db931e4f64f19cbab41f11",
