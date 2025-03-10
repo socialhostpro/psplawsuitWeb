@@ -1,2 +1,24 @@
+# Flutter/Dart Specific
 .dart_tool/
-.dart_tool/flutter_build/
+.build/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Generated Files
+*.log
+*.lock
+*.bak
+*.swp
+*.swo
+*.swn
+*.orig
+
+# Flutter Web Specific
+build/
+build/web/
+build/web/.gitignore.txt
+
+# Node.js (if using Firebase)
+node_modules/
+firebase/
